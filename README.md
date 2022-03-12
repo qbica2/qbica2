@@ -29,3 +29,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qbica2&show_icons=true&theme=radical&locale=en&layout=compact" alt="qbica2" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qbica2&show_icons=true&theme=dark&locale=en" alt="qbica2" width="50%" /></p>
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/qbica2/count.svg" />
+</p>
