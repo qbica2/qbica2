@@ -2,7 +2,7 @@
 
   <h3 align="left">About Me</h3>
   
-  <p> I'm a self-taught Web Frontend Developer who likes to work with JavaScript( React.js, Next.js )</p>
+  <p> I'm a self-taught Web Frontend Developer who likes to work with JavaScript( React.js )</p>
   
 - 🔭 I’m currently working on [**Netflix Clone Project**](https://github.com/qbica2/netflix-clone)
 - 📫 How to reach me **kubidik27@gmail.com** or [**Linkedin**](https://www.linkedin.com/in/kubilay-akdemir/)
