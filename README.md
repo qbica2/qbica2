@@ -14,9 +14,9 @@
 
 
 <p>
-  <img align="left" src="https://readme-stats-qbica2.vercel.app/api/top-langs?username=qbica2&show_icons=true&locale=en&layout=compact&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"" alt="qbica2" />
+  <img align="left" src="https://readme-stats-2z0chhj71-qbica2.vercel.app/api/top-langs?username=qbica2&count_private=true&show_icons=true&hide=html&locale=en&layout=compact&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"" alt="qbica2" />
 </p>
 
 <p>
- <img align="left" alt="qbica2's GitHub Stats" src="https://readme-stats-qbica2.vercel.app/api?username=qbica2&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+ <img align="left" alt="qbica2's GitHub Stats" src="https://readme-stats-2z0chhj71-qbica2.vercel.app/api?username=qbica2&count_private=true&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 </p>
