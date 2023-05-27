@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kubilay</h1>
-<h4 align="center">A self-taught iOS developer. I studied React for about a year and I'm currently learning Swift with the goal of becoming a mobile iOS developer.</h3>
+<h4 align="center">A self-taught iOS developer.</h4>
+<h5 align="center">I studied React for about a year and I'm currently learning Swift with the goal of becoming a mobile iOS developer.</h5>
 
 - 🔭 I’m currently working on [Qshopping](https://github.com/qbica2)
 
